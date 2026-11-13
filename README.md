@@ -34,9 +34,9 @@ The download manager for Android that just works.</p>
 <p align="center">
   <img src="assets/screens/fullplayer-dark.png" width="250" alt="Full player">
   &nbsp;
-  <img src="assets/screens/stats-dark.png" width="250" alt="Statistics">
+  <img src="assets/screens/space-light.png" width="250" alt="Space">
   &nbsp;
-  <img src="assets/screens/settings-light.png" width="250" alt="Settings">
+  <img src="assets/screens/space-guard-dark.png" width="250" alt="Low space guard">
 </p>
 
 ## Get it
