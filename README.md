@@ -19,6 +19,10 @@ The download manager for Android that just works.</p>
 </p>
 
 <p align="center">
+  <img src="assets/demo.webp" width="720" alt="Grappin in action">
+</p>
+
+<p align="center">
   <img src="assets/screens/links-light.png" width="250" alt="Links">
   &nbsp;
   <img src="assets/screens/downloads-dark.png" width="250" alt="Downloads">
