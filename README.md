@@ -8,6 +8,13 @@
 The download manager for Android that just works.</p>
 
 <p align="center">
+  <a href="../../releases"><img src="https://img.shields.io/github/v/release/Nic69Han/Grappin?include_prereleases&label=version&color=FFB547&style=flat-square" alt="Version"></a>
+  <a href="../../releases"><img src="https://img.shields.io/github/downloads/Nic69Han/Grappin/total?color=1D2B6B&style=flat-square" alt="Downloads"></a>
+  <img src="https://img.shields.io/badge/Android-11%2B-3DDC84?logo=android&logoColor=white&style=flat-square" alt="Android 11+">
+  <img src="https://img.shields.io/badge/ads-none-6FD99A?style=flat-square" alt="No ads">
+</p>
+
+<p align="center">
   <a href="../../releases"><b>⬇ Download Grappin</b></a>
 </p>
 
@@ -41,10 +48,27 @@ The download manager for Android that just works.</p>
 
 ## Get it
 
-1. Download the APK from the [releases page](../../releases).
-2. Open it on your phone and allow the installation.
-3. Grappin keeps itself up to date from here.
+1. Download `Grappin-x.y.z.apk` from the [releases page](../../releases) on your phone.
+2. Open it. Android asks to **allow installs from this source** (your browser or file manager): turn it on, then go back.
+3. If Play Protect shows a warning, tap **More details** then **Install anyway**. Grappin is not on the Play Store yet, so Android simply doesn't know it.
+4. Done. Grappin keeps itself up to date from here, no need to come back.
 
 Android 11 or newer.
 
+## Spread the word
+
+Like it? **Star ⭐ the repo** and share the app: in Grappin, *Settings › About › Share Grappin* shows a QR code a friend can scan.
+
+## Get involved
+
+Found a bug, have an idea or want Grappin in your language? [Open an issue](../../issues), every message is read.
+Developers who want to contribute can ask for access to the source code there.
+
 <p align="center"><sub>English · Français · Español · Português · 中文</sub></p>
+
+---
+
+<p align="center">
+  Made with care by <b>NiChaN</b> · <a href="https://github.com/Nic69Han">@Nic69Han</a><br>
+  <sub>Thanks for stopping by. Hope Grappin saves you time, enjoy your downloads!</sub>
+</p>
