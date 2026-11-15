@@ -4,14 +4,15 @@
 
 <h1 align="center">Grappin</h1>
 
-<p align="center"><b>Grab anything. Download everything.</b><br>
-The download manager for Android that just works.</p>
+<p align="center"><b>Grab anything. Play everything.</b><br>
+Download any file, then watch, listen and read it in one beautiful app.</p>
 
 <p align="center">
   <a href="../../releases"><img src="https://img.shields.io/github/v/release/Nic69Han/Grappin?include_prereleases&label=version&color=FFB547&style=flat-square" alt="Version"></a>
   <a href="../../releases"><img src="https://img.shields.io/github/downloads/Nic69Han/Grappin/total?color=1D2B6B&style=flat-square" alt="Downloads"></a>
   <img src="https://img.shields.io/badge/Android-11%2B-3DDC84?logo=android&logoColor=white&style=flat-square" alt="Android 11+">
   <img src="https://img.shields.io/badge/ads-none-6FD99A?style=flat-square" alt="No ads">
+  <img src="https://img.shields.io/badge/account-none-9AA0B4?style=flat-square" alt="No account">
 </p>
 
 <p align="center">
@@ -23,32 +24,32 @@ The download manager for Android that just works.</p>
 </p>
 
 <p align="center">
-  <img src="assets/screens/links-light.png" width="250" alt="Links">
+  <img src="assets/screens/library-dark.png" width="250" alt="Library">
   &nbsp;
-  <img src="assets/screens/downloads-dark.png" width="250" alt="Downloads">
+  <img src="assets/screens/music-player-dark.png" width="250" alt="Music player with waveform">
   &nbsp;
-  <img src="assets/screens/player-light.png" width="250" alt="Player">
+  <img src="assets/screens/book-reader.png" width="250" alt="Book reader with music playing">
 </p>
 
-## Why Grappin
+## Download anything
 
-- **Paste and go.** A link, a whole page or a block of text: Grappin finds every file in it.
-- **Fast.** Parallel, multi-part downloads that pick up right where they left off.
-- **Video and music.** Save media in the format you want: MP4, MP3, M4A.
-- **Built-in player.** Queue, continuous playback, shuffle, equalizer, picture-in-picture.
-- **Smart by default.** Duplicate detection, automatic rules, scheduler, Wi-Fi only, speed limit.
-- **Never fills your phone.** Downloads wait when space runs low, and a Space page shows what you can safely clear.
-- **Archives handled.** ZIP, 7z and RAR unpacked as soon as they land.
-- **Your servers too.** FTP, FTPS and SFTP alongside everything else.
-- **Made to feel good.** A clean design, a true dark mode, available in 5 languages.
+Paste a link, a page or a playlist: videos, music, books, documents, archives. Grappin finds it, downloads it fast and never fills your phone.
+
+## Play everything
+
+Music, videos, photos, podcasts and books, all in one beautiful player. Start playing in seconds, even before the download ends, and mix your files with streaming in the same list.
 
 <p align="center">
-  <img src="assets/screens/fullplayer-dark.png" width="250" alt="Full player">
+  <img src="assets/screens/music-dark.png" width="250" alt="Music">
+  &nbsp;
+  <img src="assets/screens/review-dark.png" width="250" alt="Playlist">
   &nbsp;
   <img src="assets/screens/space-light.png" width="250" alt="Space">
-  &nbsp;
-  <img src="assets/screens/space-guard-dark.png" width="250" alt="Low space guard">
 </p>
+
+## Yours, and private
+
+No account, no ads. Your files stay on your phone.
 
 ## Get it
 
@@ -68,11 +69,11 @@ Like it? **Star ⭐ the repo** and share the app: in Grappin, *Settings › Abou
 Found a bug, have an idea or want Grappin in your language? [Open an issue](../../issues), every message is read.
 Developers who want to contribute can ask for access to the source code there.
 
-<p align="center"><sub>English · Français · Español · Português · 中文</sub></p>
+<p align="center"><sub>English · Français · Español · Português · Português (Brasil) · 中文</sub></p>
 
 ---
 
 <p align="center">
   Made with care by <b>NiChaN</b> · <a href="https://github.com/Nic69Han">@Nic69Han</a><br>
-  <sub>Thanks for stopping by. Hope Grappin saves you time, enjoy your downloads!</sub>
+  <sub>Thanks for stopping by. Hope Grappin saves you time, enjoy your downloads and your music!</sub>
 </p>
