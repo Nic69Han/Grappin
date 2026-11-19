@@ -37,7 +37,11 @@ Paste a link, a page or a playlist: videos, music, books, documents, archives. G
 
 ## Play everything
 
-Music, videos, photos, podcasts and books, all in one beautiful player. Start playing in seconds, even before the download ends, and mix your files with streaming in the same list.
+Music, videos, photos, podcasts and books, all in one beautiful player, including what is already on your phone. Start playing in seconds, even before the download ends, sing along with synced lyrics, and turn your photos into a short film to share.
+
+## Discover
+
+The top charts from around the world, live radio and free classic books, one tap from the home screen.
 
 <p align="center">
   <img src="assets/screens/music-dark.png" width="250" alt="Music">
